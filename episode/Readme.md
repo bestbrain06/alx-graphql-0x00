@@ -1,12 +1,12 @@
-# GraphQL Episode Queries
+# GraphQL Character Queries
 
-This directory contains GraphQL queries to fetch specific episode details by ID using the `episode(id: ID!)` field.
+This project contains GraphQL queries to fetch specific character information by ID (1, 2, 3, 4) using the `character(id: ID!)` field.
 
-Each query retrieves:
+Each query retrieves the following fields:
 
 - id
 - name
-- air_date
-- episode
-
-Files include both `.graphql` queries and their corresponding `.json` outputs
+- status
+- species
+- type
+- gender
