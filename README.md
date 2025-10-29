@@ -10,3 +10,4 @@ Each query retrieves the following fields:
 - species
 - type
 - gender
+-
