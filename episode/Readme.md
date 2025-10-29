@@ -9,4 +9,4 @@ Each query retrieves:
 - air_date
 - episode
 
-Files include both `.graphql` queries and their corresponding `.json` outputs.
+Files include both `.graphql` queries and their corresponding `.json` outputs
